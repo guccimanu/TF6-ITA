@@ -3,6 +3,16 @@
 Traduzione amatoriale in italiano di Yu-Gi-Oh! 5D's Tag Force 6 per PSP, uscito solo in Giappone (ULJM-05940).
 
 Ho tradotto la modalità storia, i menu, i duelli, le battute dei personaggi, il database delle carte, il negozio, la guida per principianti, le opzioni e le grafiche. I nomi di carte e personaggi seguono quelli ufficiali italiani di Konami.
+## Screenshot
+
+<p align="center">
+  <img src="screenshots/01_titolo.png" alt="Schermata del titolo" width="49%">
+  <img src="screenshots/02_dialogo.png" alt="Dialogo della storia" width="49%">
+  <img src="screenshots/03_duello.png" alt="Duello" width="49%">
+  <img src="screenshots/04_negozio.png" alt="Negozio" width="49%">
+  <img src="screenshots/05_menu.png" alt="Menu PDA" width="49%">
+  <img src="screenshots/06_mappa.png" alt="Mappa" width="49%">
+</p>
 
 ## Download
 
