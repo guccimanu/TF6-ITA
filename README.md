@@ -2,7 +2,9 @@
 
 Traduzione amatoriale in italiano di Yu-Gi-Oh! 5D's Tag Force 6 per PSP, uscito solo in Giappone (ULJM-05940).
 
-Ho tradotto la modalità storia, i menu, i duelli, le battute dei personaggi, il database delle carte, il negozio, la guida per principianti, le opzioni e le grafiche. I nomi di carte e personaggi seguono quelli ufficiali italiani di Konami.
+Ho tradotto la modalità storia, i menu, i duelli, le battute dei personaggi, il database delle carte, il negozio, la guida per principianti, le opzioni e le grafiche.
+
+Le carte hanno i nomi e i testi ufficiali italiani di Konami, gli stessi che trovate sulle carte vere. I personaggi si chiamano come nel doppiaggio italiano dell’anime: Akiza, Trudge, Leo, Luna, Kalin e così via. La storia l’ho ritradotta confrontandola con il testo giapponese originale.
 ## Screenshot
 
 <p align="center">
@@ -53,7 +55,7 @@ La ISO italiana ottenuta deve avere MD5 `4E00260C7C9DE449C0D2E8A0F96A286A`. Se �
 - Traduzione originale della storia: Clickclaxer01
 - Ritraduzione della storia, pacchetti di carte e profili dei duellanti: Gucci Manu
 
-Grazie a nzxth2 e a tutti quelli che hanno lavorato alla traduzione inglese, senza la quale questo progetto non sarebbe esistito.
+Grazie a nzxth2 e a tutti quelli che hanno lavorato alla traduzione inglese, senza la quale questo progetto non sarebbe esistito. Un grazie in particolare a nzxth2 per avermi dato il via libera a settembre 2026 ([qui la richiesta](https://github.com/nzxth2/tf6-translation/issues/5)).
 
 ## Donazioni
 
